@@ -246,6 +246,13 @@ img {
         text-align: left;
         justify-content: left;
     }
+    footer div{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(3,1fr);
+    }
 }
 @media print {
   body {
