@@ -1,2 +1,0 @@
-Terracota (boutons, icônes, éléments décoratifs) : #96A4A
-Vert olive (Titres secondaires, Hover des boutons) : #7A8B5A
